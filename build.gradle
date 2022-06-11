@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.formdev:flatlaf:2.3'
+    implementation 'javazoom:jlayer:1.0.1'
+}

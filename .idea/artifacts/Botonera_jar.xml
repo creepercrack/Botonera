@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Botonera:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Botonera_jar</output-path>
+    <root id="archive" name="Botonera.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Botonera.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javazoom/jlayer/1.0.1/2bfef7a5a4c9af2184ff74b460b6d7d24349b98a/jlayer-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.formdev/flatlaf/2.3/d7a77b74a49fc9705199426ffa73bd67acf06306/flatlaf-2.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
