@@ -1,20 +1,19 @@
 package botonera;
 
 import javax.swing.*;
-import java.io.File;
 
 public class SonidoButton extends JButton {
-    private File sonido;
+    private int i;
 
     public SonidoButton(String text) {
         super(text);
     }
 
-    public File getSonido() {
-        return sonido;
+    public int getI() {
+        return i;
     }
 
-    public void setSonido(File sonido) {
-        this.sonido = sonido;
+    public void setI(int i) {
+        this.i = i;
     }
 }
